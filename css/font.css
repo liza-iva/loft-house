@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Raleway;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Raleway"), 
+        url("../fonts/Raleway-Regular.woff2") format("woff2"),
+        url("../fonts/Raleway-Regular.woff") format("woff"), 
+        url("../fonts/Raleway-Regular.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Raleway;
+    font-weight: 700;
+    font-style: normal;
+    src: local("Raleway"), 
+        url("../fonts/Raleway-Bold.woff2") format("woff2"),
+        url("../fonts/Raleway-Bold.woff") format("woff"), 
+        url("../fonts/Raleway-Bold.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-style: normal;
+    src: local("PlayfairDisplay"), 
+        url("../fonts/PlayfairDisplay-Bold.woff2") format("woff2"),
+        url("../fonts/PlayfairDisplay-Bold.woff") format("woff"), 
+        url("../fonts/PlayfairDisplay-Bold.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: normal;
+    src: local("Roboto"), 
+        url("../fonts/Roboto-Light.woff2") format("woff2"),
+        url("../fonts/Roboto-Light.woff") format("woff"), 
+        url("../fonts/Roboto-Light.eot") format("eot");
+    font-display: swap;
+}
